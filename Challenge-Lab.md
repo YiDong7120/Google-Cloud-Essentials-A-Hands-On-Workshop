@@ -1,4 +1,4 @@
-### Assign Variables according to your question
+### Assign variables according to your question
 
 ```
 export INSTANCE=
